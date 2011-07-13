@@ -38,6 +38,8 @@ using System.Xml;
 using StuffArchiver;
 using System.Threading;
 
+// Raise your hand if you want a re-write?
+
 namespace Evemu_DB_Editor
 {
     public partial class main : Form
